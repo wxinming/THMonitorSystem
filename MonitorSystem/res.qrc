@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file alias="digi">resources/fonts/digifaw.ttf</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/images/Mute.png</file>
+        <file>resources/images/Unmute.png</file>
+    </qresource>
+</RCC>

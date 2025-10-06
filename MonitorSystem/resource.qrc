@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/images/Mute.png</file>
+        <file>resources/images/Unmute.png</file>
+        <file>resources/images/Settings.png</file>
+        <file>resources/images/Folder.png</file>
+        <file>resources/images/Total.png</file>
+        <file>resources/images/Launch.png</file>
+        <file>resources/images/EnterFull.png</file>
+        <file>resources/images/ExitFull.png</file>
+        <file>resources/images/Log.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>resources/fonts/digifaw.ttf</file>
+    </qresource>
+    <qresource prefix="/wav">
+        <file>resources/wav/THAlarmSound.wav</file>
+    </qresource>
+</RCC>
